@@ -97,4 +97,15 @@ a:hover {
     height: auto;
    
   }
+  .video_aulas{
+    margin-left: 10px;
+    color: black;
+    background-color: white;
+    z-index: 1;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+    width: 100%;
+     
+  }
 }
